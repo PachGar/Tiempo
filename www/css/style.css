@@ -1,0 +1,32 @@
+/* Empty. Add your own CSS if you like */
+.list{
+	float: auto;
+	padding: auto;
+	margin: auto;
+
+
+}
+.list, .tabs-secondary{
+	float: auto;
+	margin: auto;
+	padding: auto;
+	border-radius: 20px;
+	border-color: transparent;
+}
+.item-radio{
+	float: auto;
+	margin: auto;
+	padding: auto;
+	border-radius: 20px;
+	background-color:transparent;
+
+}
+
+.item-avatar, .tabs-secondary p{
+	color: white;
+	background-color: #024959;
+	border-radius: 10px;
+}
+.view-title{
+	color: red;
+}
